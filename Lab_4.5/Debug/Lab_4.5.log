@@ -1,0 +1,8 @@
+﻿  CAndArray.cpp
+F:\ООП\Тема 4\Lab_4.5\Lab_4.5\Lab_4.5\CAndArray.cpp(60,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  COrArray.cpp
+F:\ООП\Тема 4\Lab_4.5\Lab_4.5\Lab_4.5\COrArray.cpp(61,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+F:\ООП\Тема 4\Lab_4.5\Lab_4.5\Lab_4.5\main.cpp(17,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Lab_4.5.vcxproj -> F:\ООП\Тема 4\Lab_4.5\Lab_4.5\Debug\Lab_4.5.exe
